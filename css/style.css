@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+p{
+    color: #888888;
+    margin: 0.5em;
+}
+
+.paragrafo{
+    font-size: 1.2em;
+    
+}
+h1{
+    text-align: center;
+    background-color: #222;
+    color: rgb(60, 255, 0);
+    padding: 1em 0;
+}
+
+.imagem-pub{
+    width: 100%;
+    
+}
+
+.pvideo,.nasa{
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(224, 30, 4);
+    color:#fff;
+    padding: 0.4em 2em ;
+    text-decoration: none;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 0.5em;
+}
+
+.button:hover{
+    background-color: blue;
+    color: red;
+}
