@@ -51,3 +51,16 @@ th{
     background-color: black;
     color: white;
 }
+
+#div1,#div2,#div3,#div4{
+    margin: 0.2em auto;
+    width: 60%;
+    height: 300px;
+}
+#div1,#div2{
+    background-color: rgb(252, 0, 0);
+}
+
+#div3,#div4{
+    background-color: rgb(0, 255, 255);
+}
