@@ -42,3 +42,12 @@ h1{
     background-color: blue;
     color: red;
 }
+
+table,tr,th,td{
+    border: #000000 1px solid;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
